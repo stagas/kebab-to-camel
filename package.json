@@ -3,9 +3,8 @@
   "author": "stagas",
   "short": "stagas/kebab-to-camel",
   "description": "convert kebab-case to camelCase",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://git@github.com:stagas/kebab-to-camel.git"
@@ -88,7 +87,6 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.25.2",
     "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-react": "^7.26.1",
     "husky": "^7.0.4",
     "jest": "^27.3.1",
     "onchange": "^7.1.0",
