@@ -14,7 +14,7 @@ convert kebab-case to camelCase
  · <a href="https://github.com/stagas/kebab-to-camel/issues">   🖐️ <strong>Help</strong></a>
 </p>
 
----
+***
 
 ## Install
 
@@ -43,17 +43,18 @@ console.log(kebabToCamel('hello-camel-world'))
 
 #### Table of Contents
 
-- [kebabToCamel](#kebabtocamel)
+*   [kebabToCamel](#kebabtocamel)
+    *   [Parameters](#parameters)
 
 ### kebabToCamel
 
-[src/index.ts:7-18](https://github.com/stagas/kebab-to-camel/blob/c300f7e7184d85dae798c43e8699c98809fc2f4b/src/index.ts#L7-L18 'Source code on GitHub')
+[src/index.ts:7-18](https://github.com/stagas/kebab-to-camel/blob/f08cfc7439b855c53969980b72ab3c838433d679/src/index.ts#L7-L18 "Source code on GitHub")
 
 Converts a string from `kebab-case` to `camelCase`.
 
 #### Parameters
 
-- `input` **[string](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String)** The string in `kebab-case` to be converted
+*   `input` **[string](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String)** The string in `kebab-case` to be converted
 
 Returns **[string](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String)** The string in `camelCase`
 
