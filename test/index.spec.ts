@@ -1,4 +1,4 @@
-import { kebabToCamel } from './'
+import { kebabToCamel } from '../src'
 
 it('should convert a kebab-case string to camelCase', () => {
   expect(kebabToCamel('')).toEqual('')
